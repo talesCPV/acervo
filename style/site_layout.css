@@ -13390,7 +13390,7 @@ a,
 .navbar-default .navbar-nav>li>a:hover {
     color: #dddddd
 }
-
+/*
 .navbar-brand {
     background-image: url(/assets/v2/DA_logo-d914bebb6326978a4132407a65e0855d.png);
     background-repeat: repeat;
@@ -13403,7 +13403,7 @@ a,
 .navbar-brand:hover {
     opacity: 0.9
 }
-
+*/
 .navbar-nav {
     float: right;
     text-transform: uppercase
@@ -13962,7 +13962,7 @@ h4 .vehicle-name {
 .navbar li a.active {
     color: #ffffff
 }
-
+/*
 .header-company-logo {
     background-image: url(/assets/v3/da_logo-d4a71910fa8dba8fd4322e3836484ed5.png);
     width: 194px;
@@ -13974,7 +13974,7 @@ h4 .vehicle-name {
     float: left;
     text-indent: -999em
 }
-
+*/
 .social-bar img {
     background-color: #464646;
     border-radius: 3px
@@ -13991,7 +13991,7 @@ h4 .vehicle-name {
     height: 27px;
     font-size: 2em;
 }
-
+/*
 .social-bar .social-icon1 {
     background-image: url(/assets/v3/mail-w-66b8ea23741d95fd32733c4ee16cc30d.svg);
     width: 27px;
@@ -14189,7 +14189,7 @@ h4 .vehicle-name {
 .social-links .social-icon-mtrs.dark {
     background-image: url(/assets/v3/mtrs-dark-77a876d65dce9c477c9c8b4269566949.svg)
 }
-
+*/
 .social-bar-font-awesome .fa {
     display: inline-block;
     font-family: 'FontAwesome';
@@ -16326,7 +16326,7 @@ div.block {
     border-color: #ff8400;
     color: #ffffff
 }
-
+/*
 @font-face {
     font-family: 'forza-l';
     src: url("/assets/Forza-Light-86c270bc3e84daf06d84cc6f2ac0684b.eot");
@@ -16344,7 +16344,7 @@ div.block {
     font-style: normal;
     font-display: swap
 }
-
+*/
 @media print {
 
     body,
@@ -17546,7 +17546,7 @@ header {
 header.compress-nav {
     top: -120px
 }
-
+/*
 header .worldwide-nav-logo {
     width: 15%;
     height: 120px;  
@@ -17562,7 +17562,7 @@ header .worldwide-nav-logo {
     -webkit-transition: .2s all ease-in-out;
     -moz-transition: .2s all ease-in-out
 }
-
+*/
 @media (max-width: 1120px) {
     header .worldwide-nav-logo {
         height: 80px;
@@ -17653,7 +17653,7 @@ header .worldwide-nav-logo {
     color: #000;
     font-size: 2em;
 }
-
+/*
 .worldwide-nav-links .top-bar .social-bar .email-icon {
     background-image: url(/assets/icons/send_mail.svg);
     background-repeat: no-repeat;
@@ -17694,7 +17694,7 @@ header .worldwide-nav-logo {
     background-image: url(/assets/worldwide/icons/motorious-p-fe5ead6ae00f954c1c5b0a27041a35d1.svg);
     background-repeat: no-repeat
 }
-
+*/
 .worldwide-nav-links .top-bar .worldwide-nav-phone {
     color: #f8664e;
     font-family: 'din-b2';
@@ -17707,7 +17707,7 @@ header .worldwide-nav-logo {
     position: relative;
     top: -4px
 }
-
+/*
 .worldwide-nav-links .top-bar .worldwide-nav-phone::before {
     content: '';
     background-image: url(/assets/worldwide/phone-8fe1a3ebfcf1ccbda09ea9d38009727e.png);
@@ -17717,7 +17717,7 @@ header .worldwide-nav-logo {
     display: inline-block;
     position: relative
 }
-
+*/
 .worldwide-nav-links .top-bar .worldwide-nav-phone:before {
     width: 14px;
     height: 14px;
@@ -17839,7 +17839,7 @@ header .worldwide-nav-logo {
     -webkit-transition: .2s all ease-in-out;
     -moz-transition: .2s all ease-in-out
 }
-
+/*
 .worldwide-nav-links .bottom-bar .nav li.dropdown .dropdown-toggle::after {
     content: '';
     background-image: url(/assets/worldwide/icons/caret-down-w-668feb5269220d1eddf8c77703e73aae.png);
@@ -17856,7 +17856,7 @@ header .worldwide-nav-logo {
     top: 2px;
     margin-left: 0px
 }
-
+*/
 .worldwide-nav-links .bottom-bar .nav li.dropdown .dropdown-toggle:after {
     transition: .2s all ease-in-out;
     -webkit-transition: .2s all ease-in-out;
@@ -18092,7 +18092,7 @@ span {
         height: auto
     }
 }
-
+/*
 .footer {
     height: 200px;
     background-image: url(/assets/worldwide/logo-bg-1e280384a6cf3914fe59fe74d1601125.png);
@@ -18113,7 +18113,7 @@ span {
     margin: 4px 0px;
     align-items: unset
 }
-
+*/
 @media (max-width: 991px) {
     .footer {
         flex-direction: column;
@@ -18220,7 +18220,7 @@ span {
 .footer .contact-block .info-block .social-bar .social-btn:hover {
     background-color: #fff
 }
-
+/*
 .footer .contact-block .info-block .social-bar .email-icon {
     background-image: url(/assets/worldwide/icons/mail-b-09e9bf257b722450a602d7a2c9eac0c7.svg);
     background-repeat: no-repeat
@@ -18275,7 +18275,7 @@ span {
     justify-content: center;
     position: relative
 }
-
+*/
 .footer .footer-logo img {
     width: auto;
     height: 90%;
@@ -19130,7 +19130,7 @@ body.modal-open {
         margin-top: 0px
     }
 }
-
+/*
 #contact-modal .close,
 #carfinder-modal .close,
 #make-offer-modal .close,
@@ -19152,7 +19152,7 @@ body.modal-open {
     position: absolute;
     z-index: 4
 }
-
+*/
 #contact-modal .close:hover,
 #carfinder-modal .close:hover,
 #make-offer-modal .close:hover,
@@ -19210,7 +19210,7 @@ body.modal-open {
         margin-top: 0px
     }
 }
-
+/*
 #consignment-modal .worldwide-modal-close {
     width: 28px;
     height: 28px;
@@ -19227,7 +19227,7 @@ body.modal-open {
     z-index: 4;
     background-color: #e73113
 }
-
+*/
 #consignment-modal .worldwide-modal-close:hover {
     background-color: #ec5623
 }
@@ -19278,7 +19278,7 @@ body.modal-open {
 .worldwide-hero .hero-content .worldwide-btn {
     margin: 12px auto 0
 }
-
+/*
 .worldwide-hero .banner {
     background-image: url(/assets/worldwide/hero-ticket-6bf92b5fa50c0041b154788a466aa3fb.png);
     background-repeat: no-repeat;
@@ -19297,7 +19297,7 @@ body.modal-open {
     font-weight: normal;
     color: #000
 }
-
+*/
 .worldwide-hero h1 span {
     display: block
 }
@@ -19712,7 +19712,7 @@ body.modal-open {
     z-index: 2;
     background-size: contain
 }
-
+/*
 .worldwide-inventory-item .info-block .logo {
     position: absolute;
     width: 100%;
@@ -19722,7 +19722,7 @@ body.modal-open {
     background-size: 100% auto;
     bottom: -14%
 }
-
+*/
 .title-row {
     width: 100%;
     height: 500px;
@@ -19836,7 +19836,7 @@ body.modal-open {
     -webkit-transition: .2s all ease-in-out;
     -moz-transition: .2s all ease-in-out
 }
-
+/*
 .home-inv-heading .inv-cta-btn::after {
     content: '';
     background-image: url(/assets/worldwide/arrow-down-w-baffd84996b0eeae6f64255006c55a8f.png);
@@ -19846,7 +19846,7 @@ body.modal-open {
     display: inline-block;
     position: relative
 }
-
+*/
 .home-inv-heading .inv-cta-btn:after {
     width: 20px;
     height: 20px;
@@ -19968,7 +19968,7 @@ body.modal-open {
     -webkit-transition: .2s all ease-in-out;
     -moz-transition: .2s all ease-in-out
 }
-
+/*
 .home-filter-toggle::before {
     content: '';
     background-image: url(/assets/worldwide/icons/filters-w-dc7d4558fef1572e1e7eba918dc898fb.svg);
@@ -19978,7 +19978,7 @@ body.modal-open {
     display: inline-block;
     position: relative
 }
-
+*/
 .home-filter-toggle:hover {
     background-color: #e73113
 }
@@ -20089,7 +20089,7 @@ body.modal-open {
 .search-col .worldwide-search .search_input {
     width: 100%
 }
-
+/*
 .search-col .worldwide-search .search_input input {
     height: 84px;
     border-width: 0px;
@@ -20113,7 +20113,7 @@ body.modal-open {
     -webkit-transition: .2s all ease-in-out;
     -moz-transition: .2s all ease-in-out
 }
-
+*/
 .search-col .worldwide-search .search_input input:focus,
 .search-col .worldwide-search .search_input input:active {
     background-color: #e73113;
@@ -20218,7 +20218,7 @@ body.modal-open {
 .vehicle-sort-filter ul.nav.nav-pills .dropdown a:hover {
     background-color: transparent
 }
-
+/*
 .vehicle-sort-filter ul.nav.nav-pills .dropdown a .dropdown-toggle {
     background-image: url(/assets/worldwide/icons/chevron-down-w-225e7b6a281175b7aa39f64c6ae638de.svg);
     background-repeat: no-repeat;
@@ -20227,7 +20227,7 @@ body.modal-open {
     height: 24px;
     margin-right: 0px
 }
-
+*/
 .vehicle-sort-filter ul.nav.nav-pills .dropdown .dropdown-menu {
     left: -80%;
     top: 36px
@@ -20286,7 +20286,7 @@ body.modal-open {
 .worldwide-filter-item li.dropdown a:hover {
     background-color: #f8664e
 }
-
+/*
 .worldwide-filter-item li.dropdown a .dropdown-toggle {
     height: 100%;
     background-image: url(/assets/worldwide/icons/caret-down-o-f7f42f101a72502a31e6c36ef0d80b2c.png);
@@ -20298,7 +20298,7 @@ body.modal-open {
     color: rgba(0, 0, 0, 0.8);
     font-size: 16px
 }
-
+*/
 .worldwide-filter-item li.dropdown.open>a {
     background-color: transparent !important
 }
@@ -22848,7 +22848,7 @@ li {
     -webkit-transition: .2s all ease-in-out;
     -moz-transition: .2s all ease-in-out
 }
-
+/*
 .team-content .dept-block .dept-content .email-link::before {
     content: '';
     background-image: url(/assets/worldwide/icons/mail-icon-31e14852680d68c8ae2f9d52feb92b70.png);
@@ -22858,7 +22858,7 @@ li {
     display: inline-block;
     position: relative
 }
-
+*/
 .team-content .dept-block .dept-content .email-link:before {
     width: 22px;
     height: 22px;
@@ -23440,7 +23440,7 @@ span {
     transition: transform 0.8s;
     transform-style: preserve-3d
 }
-
+/*
 .worldwide-btn span.btn-front {
     font-size: 18px;
     display: block;
@@ -23473,7 +23473,7 @@ span {
     line-height: 50px;
     color: #0d0d0d
 }
-
+*/
 .worldwide-btn.icon span.btn-front:before {
     content: '';
     width: 20px;
@@ -23483,7 +23483,7 @@ span {
     display: inline-block;
     margin-right: 6px
 }
-
+/*
 .worldwide-btn.icon.mail span.btn-front:before {
     background-image: url(/assets/worldwide/icons/mail-b-64790cfa7eb9f235f97db49af9e22bb7.png);
     background-repeat: no-repeat
@@ -23500,7 +23500,7 @@ span {
     background-repeat: no-repeat;
     color: #fff
 }
-
+*/
 .worldwide-btn.wide {
     min-width: 250px
 }

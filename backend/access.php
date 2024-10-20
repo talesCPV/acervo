@@ -8,6 +8,7 @@
         include_once "connect.php";
 
         $query = "SELECT * FROM tb_acervo;";
+        $out = [];
 
         $result = mysqli_query($conexao, $query);
         if(is_object($result)){
@@ -15,6 +16,7 @@
                 while($r = mysqli_fetch_assoc($result)) {
                     if($r['url'] == $_POST["acervo"]){
                         $id_acervo = intval($r['id']);
+                        $out = json_encode($r);
                     }
                 }
             }
@@ -23,6 +25,7 @@
         $conexao->close();
     }
 
-    print $id_acervo;
+//    print $id_acervo;
+    print $out;
 
 ?>
